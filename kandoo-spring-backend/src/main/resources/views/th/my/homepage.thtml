@@ -1,0 +1,14 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Homepage</title>
+    <link rel="stylesheet" type="text/css" th:href="@{/across/resources/static/my/css/main.css}"/>
+</head>
+<body>
+<h1>Homepage</h1>
+Welcome to your application...
+This page includes a custom javascript and css resource.
+
+<script type="text/javascript" th:src="@{/across/resources/static/my/js/main.js}"></script>
+
+</body>
+</html>

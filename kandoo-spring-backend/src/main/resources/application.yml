@@ -1,0 +1,13 @@
+applicationInfo:
+  applicationId: kandoo-spring-backend
+  applicationName: Kandoo Spring Backend
+
+adminWebModule:
+  login:
+    rememberMe:
+      key: changeme
+
+debugWebModule:
+  security:
+    password: changeme
+
